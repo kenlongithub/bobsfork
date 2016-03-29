@@ -1,0 +1,84 @@
+{
+    "mods": [
+        {
+            "name": "base",
+            "enabled": "true"
+        },
+        {
+            "name": "advanced-logistics-system",
+            "enabled": "true"
+        },
+        {
+            "name": "autofill",
+            "enabled": "true"
+        },
+        {
+            "name": "bobassembly",
+            "enabled": "true"
+        },
+        {
+            "name": "bobconfig",
+            "enabled": "true"
+        },
+        {
+            "name": "bobelectronics",
+            "enabled": "true"
+        },
+        {
+            "name": "bobenemies",
+            "enabled": "true"
+        },
+        {
+            "name": "boblibrary",
+            "enabled": "true"
+        },
+        {
+            "name": "boblogistics",
+            "enabled": "true"
+        },
+        {
+            "name": "bobmining",
+            "enabled": "true"
+        },
+        {
+            "name": "bobmodules",
+            "enabled": "true"
+        },
+        {
+            "name": "bobores",
+            "enabled": "true"
+        },
+        {
+            "name": "bobplates",
+            "enabled": "true"
+        },
+        {
+            "name": "bobpower",
+            "enabled": "true"
+        },
+        {
+            "name": "bobtech",
+            "enabled": "true"
+        },
+        {
+            "name": "bobwarfare",
+            "enabled": "true"
+        },
+        {
+            "name": "FARL",
+            "enabled": "true"
+        },
+        {
+            "name": "Landfill",
+            "enabled": "true"
+        },
+        {
+            "name": "MoreLight",
+            "enabled": "true"
+        },
+        {
+            "name": "rso-mod",
+            "enabled": "true"
+        }
+    ]
+}
