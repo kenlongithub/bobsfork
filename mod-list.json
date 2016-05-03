@@ -79,6 +79,10 @@
         {
             "name": "rso-mod",
             "enabled": "true"
+        },
+        {
+            "name": "test-mode",
+            "enabled": "true"
         }
     ]
 }

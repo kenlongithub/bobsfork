@@ -58,7 +58,7 @@ bobmods.config.mining.Pumpjacks = true
 -- Modules mod
 
 -- If enabled, then Merged modules and research are enabled. (This turns on all 3 types)
-bobmods.config.modules.EnableMergedModules = true
+bobmods.config.modules.EnableMergedModules = false
 
 -- if enabled, then the specific merged module with be enabled.
 bobmods.config.modules.EnableRawSpeedModules = false
